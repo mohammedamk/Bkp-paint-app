@@ -1,0 +1,25 @@
+export const messages = {
+    alertHeading: 'Tribyo',
+    networkError: "Looks like you're not connected to internet, please connect and try again",
+    unknownError: 'Something went wrong! We are working on it, please close the app and try again.',
+    socialOauthError: 'There was a failure while trying to log you in, please try another social login or use your email',
+    socialCancelError: 'Looks like you cancelled the authentication, please accept to continue.',
+    passwordResetLinkSent: 'Password reset link has been sent to your email.',
+    paginationEndOfResults: "That's all for now",
+    firstNameEmpty: 'First name cannot be blank',
+    firstNameError: 'Should contain only alphabet and spaces',
+    lastNameEmpty: 'Last name cannot be blank',
+    passwordValidation: 'Password should contain minimum 8 characters, include at least 1 alphabet, 1 digit and 1 special char',
+    passwordEmpty: 'Password cannot be blank',
+    emailValidation: 'Email is not valid',
+    emailEmpty: 'Email cannot be blank',
+    emptyList: 'Nothing here, come back later..',
+    usernameValidation: 'Username is not valid',
+    usernameEmpty: 'Username cannot be blank',
+    contentEmpty: 'Content cannot be blank',
+    baseEmpty: 'Post must have at least one topic tagged',
+    commentCreateFailure: "Sorry, there was a problem while submitting your comment, please try again later",
+    likeCreateFailure: "Sorry, there was a problem while submitting your like, please try again later",
+    likeDestroyFailure: "Sorry, there was a problem while submitting your unlike, please try again later"
+  }
+  
